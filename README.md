@@ -1,1 +1,3 @@
-# testrepo
+=====
+learning Git and GITHUB
+=====
